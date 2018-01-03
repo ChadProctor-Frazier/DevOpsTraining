@@ -1,0 +1,11 @@
+build.xml
+build.properties
+config/
+debug/
+*sublime*
+src/\.DS_Store
+.DS_Store
+*.orig
+**/node_modules
+*.swp
+force.json
