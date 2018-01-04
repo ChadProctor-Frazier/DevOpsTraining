@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Example
 
 Parths apple watch is stupid.
@@ -5,3 +6,8 @@ Parths apple watch is stupid.
 Kate’s face is stupid
 
 Chad <3's Jack Frost
+=======
+Example
+
+Parths apple watch is stupid.
+>>>>>>> 8689
